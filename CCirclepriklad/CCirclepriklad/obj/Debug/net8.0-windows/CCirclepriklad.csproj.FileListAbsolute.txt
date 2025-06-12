@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.fMain.resources
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.Properties.Resources.resources
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.AssemblyInfo.cs
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\bin\Debug\net8.0-windows\CCirclepriklad.exe
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\bin\Debug\net8.0-windows\CCirclepriklad.deps.json
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\bin\Debug\net8.0-windows\CCirclepriklad.runtimeconfig.json
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\bin\Debug\net8.0-windows\CCirclepriklad.dll
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\bin\Debug\net8.0-windows\CCirclepriklad.pdb
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.dll
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\refint\CCirclepriklad.dll
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.pdb
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\CCirclepriklad.genruntimeconfig.cache
+C:\Users\user\source\repos\CCirclepriklad\CCirclepriklad\obj\Debug\net8.0-windows\ref\CCirclepriklad.dll

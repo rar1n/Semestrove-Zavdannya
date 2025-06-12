@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CCirclepriklad/1.0.0": {
+        "runtime": {
+          "CCirclepriklad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CCirclepriklad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
