@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.fMain.resources
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.Properties.Resources.resources
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.AssemblyInfo.cs
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\bin\Debug\net8.0-windows\CEmblemzavdannya.exe
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\bin\Debug\net8.0-windows\CEmblemzavdannya.deps.json
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\bin\Debug\net8.0-windows\CEmblemzavdannya.runtimeconfig.json
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\bin\Debug\net8.0-windows\CEmblemzavdannya.dll
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\bin\Debug\net8.0-windows\CEmblemzavdannya.pdb
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.dll
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\refint\CEmblemzavdannya.dll
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.pdb
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\CEmblemzavdannya.genruntimeconfig.cache
+C:\Users\user\source\repos\CEmblemzavdannya\CEmblemzavdannya\obj\Debug\net8.0-windows\ref\CEmblemzavdannya.dll
